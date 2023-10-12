@@ -1,0 +1,15 @@
+  <!-- <input type="checkbox" class="menu__toggler" checked>
+  <div class="menu__container">
+    <img src="img/image 7.png" alt="Логотип" class="menu__logo">
+    <button class="menu__burger-button">
+      <div class="menu__center-line"></div>
+    </button>
+  </div>
+  <div class="menu__items">
+    <a href="" class="menu__link">Доставка</a>
+    <a href="" class="menu__link">Наша Фишка</a>
+    <a href="" class="menu__link">Топ Растений</a>
+    <a href="" class="menu__link">Карта</a>
+    <a href="" class="menu__link">Заказ звонка</a>
+  </div>
+</nav> -->
